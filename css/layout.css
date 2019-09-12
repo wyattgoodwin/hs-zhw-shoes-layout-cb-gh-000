@@ -24,4 +24,28 @@
 
 /* Positioning Classes */
 
+.col-1 {
+  display: block;
+  width: 32%;
+  margin-left: .5%;
+  margin-bottom: 2%;
+}
 
+.col-2 {
+  display: block;
+  width: 64%;
+}
+
+.col-3 {
+  display: block;
+  width: 31.33%;
+  margin: 1%;
+}
+
+.lfloat {
+  float: left;
+}
+
+.rfloat {
+  float: right;
+}
