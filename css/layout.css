@@ -24,4 +24,12 @@
 
 /* Positioning Classes */
 
+.col-1 {
+  display: block;
+  width: 33.333%;
+}
 
+.col-2 {
+  display: block;
+  width: 66.6666%;
+}
