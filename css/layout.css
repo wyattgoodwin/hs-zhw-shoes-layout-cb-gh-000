@@ -36,6 +36,12 @@
   width: 64%;
 }
 
+.col-3 {
+  display: block;
+  width: 30%;
+  margin: 1%;
+}
+
 .lfloat {
   float: left;
 }
