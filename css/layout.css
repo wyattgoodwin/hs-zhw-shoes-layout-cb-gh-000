@@ -42,3 +42,7 @@
 .rfloat {
   float: right;
 }
+
+#archive {
+  height: 500px;
+}
