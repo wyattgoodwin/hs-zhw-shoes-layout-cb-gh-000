@@ -24,7 +24,7 @@
 
 /* Positioning Classes */
 
-#archive .col-1 {
+.col-1 #archive {
   display: block;
   width: 32%;
   margin-left: .5%;
